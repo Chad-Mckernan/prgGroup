@@ -356,5 +356,4 @@ class DisplayMenu:
 
 init = DisplayMenu()
 init.mainMenu()
-
 input()
